@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="junhai_rational_title">温馨提示： 下面权限为之前拒绝过的，是否需要再次进行授权？</string>
+    <string name="junhai_dangerous_permission_title">DENIED_TIPS</string>
+    <string name="junhai_necessary_permission_title">NECESSARY_TIPS</string>
+    <string name="junhai_setting">设置</string>
+    <string name="junhai_resume">去设置</string>
+    <string name="junhai_cancel">取消</string>
+    <string name="junhai_Yes">是</string>
+    <string name="junhai_No">否</string>
+
+</resources>

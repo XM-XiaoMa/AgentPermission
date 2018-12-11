@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <!--
+
+    public static final String READ_CALENDAR = "android.setPermission.READ_CALENDAR";
+    public static final String WRITE_CALENDAR = "android.setPermission.WRITE_CALENDAR";
+
+    public static final String CAMERA = "android.setPermission.CAMERA";
+
+    public static final String READ_CONTACTS = "android.setPermission.READ_CONTACTS";
+    public static final String WRITE_CONTACTS = "android.setPermission.WRITE_CONTACTS";
+    public static final String GET_ACCOUNTS = "android.setPermission.GET_ACCOUNTS";
+
+    public static final String ACCESS_FINE_LOCATION = "android.setPermission.ACCESS_FINE_LOCATION";
+    public static final String ACCESS_COARSE_LOCATION = "android.setPermission.ACCESS_COARSE_LOCATION";
+
+    public static final String RECORD_AUDIO = "android.setPermission.RECORD_AUDIO";
+
+    public static final String READ_PHONE_STATE = "android.setPermission.READ_PHONE_STATE";
+    public static final String CALL_PHONE = "android.setPermission.CALL_PHONE";
+    public static final String READ_CALL_LOG = "android.setPermission.READ_CALL_LOG";
+    public static final String WRITE_CALL_LOG = "android.setPermission.WRITE_CALL_LOG";
+    public static final String ADD_VOICEMAIL = "com.android.voicemail.setPermission.ADD_VOICEMAIL";
+    public static final String USE_SIP = "android.setPermission.USE_SIP";
+    public static final String PROCESS_OUTGOING_CALLS = "android.setPermission.PROCESS_OUTGOING_CALLS";
+
+    public static final String BODY_SENSORS = "android.setPermission.BODY_SENSORS";
+
+    public static final String SEND_SMS = "android.setPermission.SEND_SMS";
+    public static final String RECEIVE_SMS = "android.setPermission.RECEIVE_SMS";
+    public static final String READ_SMS = "android.setPermission.READ_SMS";
+    public static final String RECEIVE_WAP_PUSH = "android.setPermission.RECEIVE_WAP_PUSH";
+    public static final String RECEIVE_MMS = "android.setPermission.RECEIVE_MMS";
+
+    public static final String READ_EXTERNAL_STORAGE = "android.setPermission.READ_EXTERNAL_STORAGE";
+    public static final String WRITE_EXTERNAL_STORAGE = "android.setPermission.WRITE_EXTERNAL_STORAGE";
+
+    -->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="25dp"
+        android:onClick="external"
+        android:text="sd卡权限" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="25dp"
+        android:onClick="second"
+        android:text="第二页面" />
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xm.permission">
+
+    <application>
+
+        <activity
+            android:name=".activity.PermissionAty"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="standard"
+            android:theme="@style/PermissionTheme"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
+
+    </application>
+</manifest>

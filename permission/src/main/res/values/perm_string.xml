@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="junhai_rational_title">RATIONAL_TIPS</string>
+    <string name="junhai_dangerous_permission_title">DENIED_TIPS</string>
+    <string name="junhai_necessary_permission_title">NECESSARY_TIPS</string>
+    <string name="junhai_setting">Setting</string>
+    <string name="junhai_resume">Resume</string>
+    <string name="junhai_cancel">Cancel</string>
+    <string name="junhai_Yes">Yes</string>
+    <string name="junhai_No">No</string>
+</resources>
